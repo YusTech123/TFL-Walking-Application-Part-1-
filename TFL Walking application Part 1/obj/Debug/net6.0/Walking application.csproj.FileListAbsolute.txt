@@ -1,0 +1,30 @@
+C:\Users\Yusuf\source\repos\Walking application\bin\Debug\net6.0\Walking application.exe
+C:\Users\Yusuf\source\repos\Walking application\bin\Debug\net6.0\Walking application.deps.json
+C:\Users\Yusuf\source\repos\Walking application\bin\Debug\net6.0\Walking application.runtimeconfig.json
+C:\Users\Yusuf\source\repos\Walking application\bin\Debug\net6.0\Walking application.dll
+C:\Users\Yusuf\source\repos\Walking application\bin\Debug\net6.0\Walking application.pdb
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.dll
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\refint\Walking application.dll
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.pdb
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\Walking application.genruntimeconfig.cache
+C:\Users\Yusuf\source\repos\Walking application\obj\Debug\net6.0\ref\Walking application.dll
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\bin\Debug\net6.0\Walking application.exe
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\bin\Debug\net6.0\Walking application.deps.json
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\bin\Debug\net6.0\Walking application.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\bin\Debug\net6.0\Walking application.dll
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\bin\Debug\net6.0\Walking application.pdb
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.sourcelink.json
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.dll
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\refint\Walking application.dll
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.pdb
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\Walking application.genruntimeconfig.cache
+C:\Users\Yusuf\OneDrive\Desktop\TFL Walking application V1\obj\Debug\net6.0\ref\Walking application.dll
